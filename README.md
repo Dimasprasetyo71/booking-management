@@ -1,66 +1,78 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="https://github.com/laravel/framework/actions">
+    <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+  </a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h2 align="center">Overview of Laravel</h2>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<p>Laravel is a modern PHP web framework designed with an expressive and elegant syntax, enabling developers to build robust and scalable applications. The core philosophy of Laravel is to make the development process enjoyable and efficient by abstracting repetitive tasks and providing a wide array of built-in functionalities.</p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h3>Key Features</h3>
+<ul>
+  <li><strong>Routing Engine:</strong> Laravel provides a simple and fast routing system to handle all your application's HTTP requests. Check the <a href="https://laravel.com/docs/routing">Routing documentation</a> for more details.</li>
+  <li><strong>Dependency Injection Container:</strong> Manage class dependencies effectively using Laravel's service container. Learn more in the <a href="https://laravel.com/docs/container">Service Container documentation</a>.</li>
+  <li><strong>Session & Cache:</strong> Multiple storage backends are supported for session and caching, offering flexibility and performance for your application. See the <a href="https://laravel.com/docs/session">Session</a> and <a href="https://laravel.com/docs/cache">Cache</a> documentation.</li>
+  <li><strong>Eloquent ORM:</strong> Laravel’s intuitive and expressive ORM (Object-Relational Mapping) makes database interactions easy, supporting various database systems. Explore the <a href="https://laravel.com/docs/eloquent">Eloquent documentation</a>.</li>
+  <li><strong>Schema Migrations:</strong> Keep your database schema version-controlled and database-agnostic with Laravel's schema migrations. Check the <a href="https://laravel.com/docs/migrations">Migrations documentation</a>.</li>
+  <li><strong>Background Job Processing:</strong> Easily manage background tasks, queue jobs, and handle asynchronous operations. See the <a href="https://laravel.com/docs/queues">Queue documentation</a>.</li>
+  <li><strong>Event Broadcasting:</strong> Build real-time web applications with Laravel’s powerful event broadcasting capabilities. Learn more about <a href="https://laravel.com/docs/broadcasting">Broadcasting</a>.</li>
+</ul>
 
-## Learning Laravel
+<h2>Getting Started</h2>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p>Laravel is easy to set up and comes with detailed <a href="https://laravel.com/docs">documentation</a>. You can also start building modern Laravel applications with the <a href="https://bootcamp.laravel.com">Laravel Bootcamp</a>.</p>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<p>If you prefer learning by watching, <a href="https://laracasts.com">Laracasts</a> provides over 2000 video tutorials covering everything from Laravel to JavaScript, modern PHP, and testing.</p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<h2>Laravel Sponsors</h2>
 
-## Laravel Sponsors
+<p>Laravel's development is supported by the community and the following premium sponsors. You can become a sponsor on <a href="https://patreon.com/taylorotwell">Patreon</a>.</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<h3>Premium Partners:</h3>
+<ul>
+  <li><a href="https://vehikl.com/">Vehikl</a></li>
+  <li><a href="https://tighten.co">Tighten Co.</a></li>
+  <li><a href="https://kirschbaumdevelopment.com">Kirschbaum Development Group</a></li>
+  <li><a href="https://64robots.com">64 Robots</a></li>
+  <li><a href="https://cubettech.com">Cubet Techno Labs</a></li>
+  <li><a href="https://cyber-duck.co.uk">Cyber-Duck</a></li>
+  <li><a href="https://www.many.co.uk">Many</a></li>
+  <li><a href="https://www.webdock.io/en">Webdock, Fast VPS Hosting</a></li>
+  <li><a href="https://devsquad.com">DevSquad</a></li>
+  <li><a href="https://www.curotec.com/services/technologies/laravel/">Curotec</a></li>
+  <li><a href="https://op.gg">OP.GG</a></li>
+  <li><a href="https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors">WebReinvent</a></li>
+  <li><a href="https://lendio.com">Lendio</a></li>
+</ul>
 
-### Premium Partners
+<h2>Contributing</h2>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+<p>Contributions are welcome! Please follow the <a href="https://laravel.com/docs/contributions">contribution guide</a> when submitting pull requests or issues.</p>
 
-## Contributing
+<h3>Code of Conduct</h3>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p>The Laravel community is welcoming to everyone. Please adhere to the <a href="https://laravel.com/docs/contributions#code-of-conduct">Code of Conduct</a> to maintain a respectful environment.</p>
 
-## Code of Conduct
+<h2>Security Vulnerabilities</h2>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<p>If you discover any security issues, please report them to <a href="mailto:taylor@laravel.com">Taylor Otwell</a>. All vulnerabilities will be addressed promptly.</p>
 
-## Security Vulnerabilities
+<h2>License</h2>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p>The Laravel framework is open-source software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>.</p>
